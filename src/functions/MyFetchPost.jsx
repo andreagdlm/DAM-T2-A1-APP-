@@ -3,8 +3,8 @@ function MyFetchPost() {
 
     //Declaramos el objeto.
     let usuario = {
-        nombre: 'Aitana',
-        edad: 25
+        nombre: 'Andrea',
+        edad: 23
     }
 
     //API POST de usuario.
